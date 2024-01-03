@@ -14,7 +14,7 @@
 > 
 </br>
 
-## 👣 Projects
+## 👣 프로젝트
 
 ### [ In Time ]
 
@@ -43,7 +43,7 @@
 > 
 </br>
 
-## 📞 Contact
+## 📞 연락처
 
 > 블로그: [https://hyeonju.dev](https://hyeonju.dev/)
 > 
