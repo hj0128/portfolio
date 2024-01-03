@@ -10,7 +10,7 @@
 
 ## 💻 기술 스택
 
-> JavaScript&nbsp;&nbsp;TypeScript&nbsp;&nbsp;NodeJS&nbsp;&nbsp;NestJS&nbsp;&nbsp;MySQL&nbsp;&nbsp;Docker
+> JavaScript&emsp;TypeScript&emsp;NodeJS&emsp;NestJS&emsp;MySQL&emsp;Docker
 > 
 </br>
 
@@ -26,11 +26,11 @@
 > 
 > 기술 스택:
 > 
-> NestJS 10.0.0&nbsp;&nbsp;Express 4.18.2&nbsp;&nbsp;NodeJS 20.9.0&nbsp;&nbsp;TypeScript 5.1.3&nbsp;&nbsp;TypeORM 0.3.17
+> NestJS 10.0.0&emsp;Express 4.18.2&emsp;NodeJS 20.9.0&emsp;TypeScript 5.1.3&emsp;TypeORM 0.3.17
 > 
-> MySQL2 3.6.2&nbsp;&nbsp;Redis 4.6.11&nbsp;&nbsp;Docker-compose 1.29.2
+> MySQL2 3.6.2&emsp;Redis 4.6.11&emsp;Docker-compose 1.29.2
 > 
-> Socket.io&nbsp;&nbsp;Jsonwebtoken&nbsp;&nbsp;Nodemailer&nbsp;&nbsp;Axios&nbsp;&nbsp;Jest&nbsp;&nbsp;Git&nbsp;&nbsp;GCP</br>
+> Socket.io&emsp;Jsonwebtoken&emsp;Nodemailer&emsp;Axios&emsp;Jest&emsp;Git&emsp;GCP</br>
 > </br>
 > 
 > [프로젝트 상세 설명] ([https://github.com/hj0128/in_time](https://github.com/hj0128/In_Time)) 참고
